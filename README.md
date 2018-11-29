@@ -1,2 +1,5 @@
-# Database-c-
-Database c#
+Hello, 
+
+This application uses a wamp server.
+
+
